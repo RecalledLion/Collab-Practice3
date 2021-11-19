@@ -1,0 +1,15 @@
+nav {
+    background-color: crimson; height: 100px;
+}
+.row {
+    height: 500px;
+}
+.left {
+    background-color: gold; 
+}
+.right {
+    background-color: indigo;
+}
+footer {
+    background-color: purple; height: 100px;
+}
